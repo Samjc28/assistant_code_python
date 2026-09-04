@@ -51,7 +51,7 @@ with st.sidebar:
     st.markdown("Desenvolvido para auxiliar em suas dúvidas de programação com a Linguagem Python. IA pode cometer erros. Sempre verifique as respostas.")
 
     st.markdown("----")
-    st.markdown("desenvolvido por @JoelsonCorrea")
+    st.markdown("Desenvolvido por @JoelsonCorrea")
 
 # titulo principal da aplicação
 st.title("IA CODE COPILOT 🤖")
